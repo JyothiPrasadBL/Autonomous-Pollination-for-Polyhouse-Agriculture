@@ -51,5 +51,5 @@ Project Type: Team-based Hackathon Project
 ## 🎥 Project Demo Video
 This video demonstrates the working of the Autonomous Pollination system developed during the hackathon.
 
-👉 [Click here to watch the demo video](https://github.com/JyothiPrasadBL/Autonomous-Pollination-for-Polyhouse-Agriculture/blob/main/Autonomus%20Pollination%20Working%20Demo%20Video.mp4)
+👉 [Click here to watch the demo video](https://drive.google.com/file/d/12rOGwlJ7u6uTGFd4_NzbAU67eIKzgUy7/view?usp=drivesdk)
 

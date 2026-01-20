@@ -46,3 +46,10 @@ Event: National Level Hackathon
 Institution: CMR College of Engineering and Technology, Hyderabad
 
 Project Type: Team-based Hackathon Project
+
+
+## 🎥 Project Demo Video
+This video demonstrates the working of the Autonomous Pollination system developed during the hackathon.
+
+👉 [Click here to watch the demo video](PASTE_GOOGLE_DRIVE_LINK_HERE)
+
